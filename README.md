@@ -12,9 +12,8 @@ This dashboard uses the cleaned Task 1 dataset and extends the Task 2 EDA themes
 - Filters: date, category, city, age group, gender (when those columns exist)
 - Charts: sales by category, monthly sales trend, top products, top cities
 - Filtered data preview and CSV download
+## Live Streamlit Dashboard
 
-## Publish to get a live link
-1. Upload all these files and the `data` folder to a GitHub repository.
-2. Sign in to Streamlit Community Cloud at https://share.streamlit.io/.
-3. Choose **Create app**, select your repository and branch, and set the main file path to `app.py`.
-4. Click **Deploy**. After it finishes, copy the generated `https://....streamlit.app` URL as your live dashboard link.
+Click the link below to view my interactive dashboard:
+https://apexplanet-dataanalytics-task3-aotm95ywqfvreect4b4mgu.streamlit.app/
+
