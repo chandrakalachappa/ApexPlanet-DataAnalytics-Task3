@@ -8,7 +8,7 @@ st.title("ApexPlanet Data Analytics — Task 3")
 st.subheader("Deep-Dive Sales Analysis")
 st.caption("Built from the cleaned Task 1 dataset and extending the Task 2 EDA themes.")
 
-DATA_PATH = Path(__file__).parent / "data" / "ApexPlanet_Task1_Cleaned_Dataset.csv"
+DATA_PATH ="ApexPlanet_Task1_Cleaned_Dataset.csv" 
 
 @st.cache_data
 def load_data():
